@@ -1,0 +1,12 @@
+ul {
+  color: maroon;
+  font-style: italic;
+}
+ol {
+  color: brown;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
